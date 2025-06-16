@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "http://srv235451.hoster-test.ru/secu/login",
+      "permanent": false
+    }
+  ]
+}
